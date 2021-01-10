@@ -13,3 +13,5 @@
 ## mkdir 文件夹 创建文件夹
 ## cd 文件目录 进入到目录
 ## rm -rf 文件 删除当前目录下的指定文件
+## git push origin main 第一次提交分支
+## git push 第二次之后提交
