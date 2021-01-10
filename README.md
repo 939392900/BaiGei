@@ -7,3 +7,9 @@
 ## 输入全局变量的配置git config --global user.name "yebing"
 ## 告诉github你的邮箱git config --global user.email "hhdd576@126.com" 
 ## 下载仓库 git clone 仓库地址
+## ls 查看当前目录下的文件
+## ls -a 查看当前目录下的文件 包括隐藏文件
+## touch 文件 创建文件
+## mkdir 文件夹 创建文件夹
+## cd 文件目录 进入到目录
+## rm -rf 文件 删除当前目录下的指定文件
